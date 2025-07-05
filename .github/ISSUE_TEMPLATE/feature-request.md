@@ -1,9 +1,9 @@
 ---
 name: Feature Request
-about: "[FEAT] 기능 설명"
-title: "[FEAT]"
+about: 새로운 기능 추가 요청을 작성해 주세요.
+title: "[FEAT] 기능 설명"
 labels: ''
-assignees: ''
+assignees: Sangyoon98
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Fix Request
-about: "[FIX] 기능 설명"
-title: "[FIX]"
+about: 새로운 수정 요청을 작성해 주세요.
+title: "[FIX] 기능 설명"
 labels: ''
-assignees: ''
+assignees: Sangyoon98
 
 ---
 
